@@ -1,3 +1,5 @@
 nlp-getting-started-dataset.zip
 final_dataset.csv
 nlp-getting-started
+processed_text_train.csv
+processed_text_test.csv
